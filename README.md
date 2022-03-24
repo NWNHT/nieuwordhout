@@ -11,5 +11,3 @@ wordle2.py is a more robust clone and integrates remaining.py to allow for a tra
 -trans		turn on transparency
 -words		display the remaining words(requires -trans)
 -answer		specify the answer, otherwise random. Word is not checked for suitability.
-
-testing commit
